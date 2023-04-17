@@ -10,4 +10,4 @@ Olá a todos, sou o Filipe Welton. Estou cursando a trilha de ReactJS do <a href
 [![FaunaDB](https://img.shields.io/badge/faunadb-8C3FDA?style=for-the-badge)]()
 
 ### Tecnologias que uso
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipewelton)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipewelton)](https://github.com/filipewelton/github-readme-stats)
