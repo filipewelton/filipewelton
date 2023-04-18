@@ -6,7 +6,6 @@ Olá a todos, sou o Filipe Welton. Estou cursando a trilha de ReactJS do <a href
 [![ReactJS](https://img.shields.io/badge/ReactJS-05C7F2?style=for-the-badge)]()
 [![NextJS](https://img.shields.io/badge/next-ccc?style=for-the-badge)]()
 [![HTML5](https://img.shields.io/badge/ChakraUI-0FC2C0?style=for-the-badge)]()
-[![Chakra UI](https://img.shields.io/badge/miragejs-04D939?style=for-the-badge)]()
 [![FaunaDB](https://img.shields.io/badge/faunadb-8C3FDA?style=for-the-badge)]()
 
 ### Tecnologias que uso
