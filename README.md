@@ -1,4 +1,4 @@
-## Sobre Min
+## Sobre Mim
 Olá a todos, sou o Filipe Welton. Estou cursando a trilha de ReactJS do <a href="https://www.rocketseat.com.br/ignite">Ignite - Rocketseat</a>, e também estou graduando em Análise e Desenvolvimento de Sistemas.
 
 ### O que estou estudando
